@@ -1,6 +1,10 @@
-<b>SIH Project: Wool Sector Management App
+<b>SIH Project: Wool Sector Management App</b>
+</br>
 Smart India Hackathon (SIH) Initiative
+</br>
 This project aims to create a comprehensive app-based solution to address the challenges faced by the wool sector in India. By leveraging modern technologies, this app will provide tools for wool producers, processors, and buyers to streamline their operations, improve wool quality, and access market opportunities. Below is a detailed outline of the project's features, technology stack, and development process.
+</br>
+</br>
 
 Project Features
 - Wool Market Information
